@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "title": "updated",
+      "body": "typicode"
+    },
+    {
+      "title": "1234",
+      "body": "123123",
+      "id": 12
+    },
+    {
+      "title": "NEW POST",
+      "body": "NEW POST",
+      "id": 14
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
